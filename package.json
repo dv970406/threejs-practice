@@ -27,6 +27,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "cannon-es": "^0.20.0",
     "dat.gui": "^0.7.9",
     "gsap": "^3.11.3",
     "stats.js": "^0.17.0",
